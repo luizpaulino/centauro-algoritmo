@@ -4,8 +4,8 @@
 - Python 3.x
 
 ### Executar os testes
- '''sh
+ ```sh
  
  python src/distancia_test.py
 
- ''' 
+ ``` 
